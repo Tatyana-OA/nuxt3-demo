@@ -19,8 +19,7 @@ nav {
 nav a {
   color: #333;
   text-decoration: none;
-  font-weight: bold;
-  font-size: 1.1rem;
+  font-size: 2rem;
 }
 
 nav a:hover {
