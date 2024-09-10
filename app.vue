@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <!-- <NuxtWelcome /> -->
-    <h1>My Nuxt 3 app!</h1>
-  </div>
+  <!-- App will now use the Nuxt layouts in Pages directory -->
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
